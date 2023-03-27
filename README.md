@@ -2,7 +2,7 @@
 
 <h2>Deservolvimento / Tecnologia 💻</h2>
   
-👨‍💻 Desenvolvedor Front end...<br>
+👨‍💻 Desenvolvedor Frontend...<br>
 🚀 Trabalho atualmente na G&P Projetos e Sistemas, na area de tecnologia...<br>
 👨‍🎓 Estou estudando React e Angular...<br>
 
