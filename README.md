@@ -15,4 +15,4 @@
 </div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-argona&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-argona&layout=compact)](https://github.com/fabio-argona/github-readme-stats)
+
