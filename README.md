@@ -1,6 +1,7 @@
 <h2> Hello World! 🌎... Eu sou o Fabio Argona 🤟 </h2>
 
-<h2>Deservolvimento / Tecnologia 💻</h2>
+<h2>Deservolvimento / Tecnologia 💻</h2>![foguete](https://user-images.githubusercontent.com/128233610/228985453-9d902a55-1942-4ad5-859a-5b7fbfd9b24b.gif)
+
   
 👨‍💻 Desenvolvedor Frontend...<br>
 🚀 Trabalho atualmente na G&P Projetos e Sistemas, na area de tecnologia...<br>
