@@ -1,4 +1,5 @@
 <h2>Olá, sou um desenvolvedor Front-End!</h2>
+</br>
 Olá, seja bem-vindo(a) ao meu perfil do Github! Meu nome é [seu nome], e sou um desenvolvedor Front-End com habilidades em HTML, CSS, React, JavaScript, TypeScript e NextJS. Também sou estudante de Direito, atualmente no 8° semestre.
 
 Sobre mim
