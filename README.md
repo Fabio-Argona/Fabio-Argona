@@ -13,7 +13,7 @@
   <li>React</li>
   <li>TypeScript</li>
   <li>NextJS</li>
-  <li>>Projetos</li>
+  <li>Projetos</li>
  </ul>
 <p>Você pode encontrar alguns dos meus projetos aqui no meu Github. Sinta-se à vontade para explorá-los e deixar um feedback!</p>
 
