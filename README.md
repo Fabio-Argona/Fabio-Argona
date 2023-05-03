@@ -1,19 +1,18 @@
-<h2> Hello World! 🌎... Eu sou o Fabio Argona 🤟 </h2>
+Olá, sou um desenvolvedor Front-End!
+Olá, seja bem-vindo(a) ao meu perfil do Github! Meu nome é [seu nome], e sou um desenvolvedor Front-End com habilidades em HTML, CSS, React, JavaScript, TypeScript e NextJS. Também sou estudante de Direito, atualmente no 8° semestre.
 
-<h2>Deservolvimento / Tecnologia 💻</h2>
+Sobre mim
+Sou apaixonado por programação e adoro criar soluções elegantes e funcionais para problemas reais. Comecei a programar como um hobby e rapidamente percebi que era minha verdadeira paixão. Hoje, trabalho como desenvolvedor Front-End em tempo integral, e estou sempre buscando aprender e aprimorar minhas habilidades.
 
-  
-👨‍💻 Desenvolvedor Frontend...<br>
-🚀 Trabalho atualmente na G&P Projetos e Sistemas, na area de tecnologia...<br>
-👨‍🎓 Estou estudando React e Angular...<br>
+Habilidades
+HTML
+CSS
+JavaScript
+React
+TypeScript
+NextJS
+Projetos
+Você pode encontrar alguns dos meus projetos aqui no meu Github. Sinta-se à vontade para explorá-los e deixar um feedback!
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-argona&show_icons=true&theme=radical)  
-
+Contato
+Se você quiser entrar em contato comigo, pode me encontrar no LinkedIn ou me enviar um e-mail em [seu e-mail]. Fico feliz em responder a quaisquer perguntas que você possa ter!
