@@ -16,4 +16,4 @@ Projetos
 Você pode encontrar alguns dos meus projetos aqui no meu Github. Sinta-se à vontade para explorá-los e deixar um feedback!
 
 Contato
-Se você quiser entrar em contato comigo, pode me encontrar no LinkedIn ou me enviar um e-mail em [seu e-mail]. Fico feliz em responder a quaisquer perguntas que você possa ter!
+Se você quiser entrar em contato comigo, pode me encontrar no LinkedIn ou me enviar um e-mail em fabio.argona@hotmail.com. Fico feliz em responder a quaisquer perguntas que você possa ter!
