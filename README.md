@@ -13,9 +13,14 @@
   <li>React</li>
   <li>TypeScript</li>
   <li>NextJS</li>
-  <li>Projetos</li>
+  <li>NodeJS</ul>li>
+  <li>Java</li>
+  <li>SQL</li>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+  
  </ul>
 <p>Você pode encontrar alguns dos meus projetos aqui no meu Github. Sinta-se à vontade para explorá-los e deixar um feedback!</p>
 
 <h3>Contato</h3>
-<p>Se você quiser entrar em contato comigo, pode me encontrar no <strong>LinkedIn</strong> ou me enviar um e-mail em fabio.argona@hotmail.com. Fico feliz em responder a quaisquer perguntas que você possa ter!</p>
+<p>Se você quiser entrar em contato comigo, pode me encontrar no <strong>[LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-luis-argona)</strong> ou me enviar um e-mail em fabio.argona@hotmail.com. Fico feliz em responder a quaisquer perguntas que você possa ter!</p>
