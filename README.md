@@ -13,7 +13,7 @@
   <li>React</li>
   <li>TypeScript</li>
   <li>NextJS</li>
-  <li>NodeJS<li>
+  <li>NodeJS</ul>li>
   <li>Java</li>
   <li>SQL</li>
   <li>MySQL</li>
